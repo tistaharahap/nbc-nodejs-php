@@ -7,6 +7,8 @@ Node.js worker to asynchronizes PHP workers doing Naive Bayes Classification.
 How To Use
 ----------
 
+$ npm install socket.io
+
 Clone the PHP Simple Naive Bayes Classifier below and put into a sub-directory of this repo root named php-bayes.
 
 Copy or symlink ./bayes.php to ./php-bayes/bayes.php
