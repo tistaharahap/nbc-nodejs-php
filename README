@@ -8,11 +8,9 @@ How To Use
 ----------
 
 $ npm install socket.io
-
-Clone the PHP Simple Naive Bayes Classifier below and put into a sub-directory of this repo root named php-bayes.
-
-Copy or symlink ./bayes.php to ./php-bayes/bayes.php
-
+$ git clone https://github.com/tistaharahap/Simple-Naive-Bayes-Classifier-for-PHP.git
+$ mv Simple-Naive-Bayes-Classifier-for-PHP bayes-php
+$ ln -s ./bayes.php ./php-bayes/bayes.php
 $ node index.js
 
 
