@@ -1,7 +1,7 @@
 Node.js + PHP Workers - Naive Bayes Classifier
 ----------------------------------------------
 
-Node.js worker to asynchronies PHP workers doing Naive Bayes Classification.
+Node.js worker to asynchronizes PHP workers doing Naive Bayes Classification.
 
 
 How To Use
