@@ -4,6 +4,16 @@ Node.js + PHP Workers - Naive Bayes Classifier
 Node.js worker to asynchronies PHP workers doing Naive Bayes Classification.
 
 
+How To Use
+----------
+
+Clone the PHP Simple Naive Classifier below and put into a sub-directory of this repo root named php-bayes.
+
+Copy or symlink ./bayes.php to ./php-bayes/bayes.php
+
+$ node index.js
+
+
 Dependencies - Node.js
 ----------------------
 
